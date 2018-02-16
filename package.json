@@ -1,0 +1,28 @@
+{
+  "name": "weseeyousay",
+  "version": "1.0.0",
+  "description": "A tool to find potentially violent people",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iraleigh/weseeyousay.git"
+  },
+  "keywords": [
+    "webapp",
+    "express"
+  ],
+  "author": "Iain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iraleigh/weseeyousay/issues"
+  },
+  "homepage": "https://github.com/iraleigh/weseeyousay#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "pug": "^2.0.0-rc.4"
+  }
+}
